@@ -1,0 +1,4 @@
+package: github.com/wrunk/goweb-print
+import:
+- package: github.com/labstack/echo
+  version: "3.1.0-rc.1"
