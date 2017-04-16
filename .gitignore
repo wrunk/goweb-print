@@ -22,4 +22,9 @@ _testmain.go
 *.prof
 
 # ****** Other OS and Dev related
-.idea/
+/.idea/
+
+/vendor
+
+/glide.lock
+/goweb-print
